@@ -1,4 +1,4 @@
 # proba
 amúgy amúgy
-aímúgy
+amúgy
 amúgy
