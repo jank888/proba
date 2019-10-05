@@ -1,2 +1,2 @@
 # proba
-amúgy amúgy
+amúgy amúgy 1.0
