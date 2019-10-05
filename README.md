@@ -1,5 +1,6 @@
 # proba
 amúgy amúgy
 13
-amúgy
-amúgy
+14
+15
+16
